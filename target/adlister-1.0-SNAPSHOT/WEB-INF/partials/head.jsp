@@ -1,2 +1,0 @@
-<title>${param.title}</title>
-
