@@ -57,17 +57,17 @@
             <div class="four columns">
                 <h6>Step 1: We look for cats!
                 </h6>
-                <img src="img/cat_alone.jpg" alt="" class="cat_step_1">
+                <img src="img/cat_alone.jpg" alt="" class="cat_step">
             </div>
             <div class="four columns">
                 <h6>Step 2: You look for cats!
                 </h6>
-                <img src="img/found.jpg" alt="" class="cat_step_2">
+                <img src="img/found.jpg" alt="" class="cat_step">
             </div>
             <div class="four columns">
                 <h6>Step 3: You find each other!
                 </h6>
-                <img src="img/love.jpg" alt="" class="cat_step_3">
+                <img src="img/love.jpg" alt="" class="cat_step">
             </div>
         </div>
     </div>

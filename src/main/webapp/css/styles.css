@@ -663,12 +663,10 @@ footer {
 }
 
 
-.cat_step_1,
-.cat_step_2,
-.cat_step_3 {
+.cat_step {
     border-radius: 50%;
-    height: 100%;
     width: 100%;
+    display: block;
     -webkit-box-shadow: -1px 13px 12px -14px rgba(57, 66, 78, 0.35);
     -moz-box-shadow: -1px 13px 12px -14px rgba(57, 66, 78, 0.35);
     box-shadow: -1px 13px 12px -14px rgba(57, 66, 78, 0.35);
