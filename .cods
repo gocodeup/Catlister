@@ -1,2 +1,2 @@
-BUILD_COMMAND=cods.sh
+BUILD_COMMAND='bash cods.sh'
 JAR_FILE=target/catlister-app-1.0-SNAPSHOT-jar-with-dependencies.jar
