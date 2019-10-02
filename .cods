@@ -1,2 +1,2 @@
-BUILD_COMMAND='./mvnw package'
+BUILD_COMMAND=cods.sh
 JAR_FILE=target/catlister-app-1.0-SNAPSHOT-jar-with-dependencies.jar
