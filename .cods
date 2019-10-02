@@ -1,2 +1,2 @@
 BUILD_COMMAND='./mvnw package'
-JAR_FILE=target/adlister.jar
+JAR_FILE=target/catlister-app-1.0-SNAPSHOT-jar-with-dependencies.jar
