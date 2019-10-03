@@ -94,6 +94,8 @@
                     <finalName>catlister-app-${project.version}</finalName>
                     <archive>
                         <manifest>
+                            <addClasspath>true</addClasspath>
+                            <classpathPrefix>lib/</classpathPrefix>
                             <mainClass>com.codeup.adlister.Main</mainClass>
                         </manifest>
                     </archive>
